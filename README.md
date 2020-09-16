@@ -20,7 +20,7 @@ function throwOutOfStack (callback) {
 }
 ```
 
-### Example Usage
+### Multiple call stack break outs
 ```javascript
 const createErrorRetainer = require('error-retainer');
 

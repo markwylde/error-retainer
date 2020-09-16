@@ -1,4 +1,5 @@
 # error-retainer
+Retain stack traces when breaking out of the current stack.
 
 ## Example Usage
 ### Simple single step

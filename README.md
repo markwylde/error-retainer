@@ -1,4 +1,9 @@
 # error-retainer
+[![Build Status](https://travis-ci.org/markwylde/error-retainer.svg?branch=master)](https://travis-ci.org/markwylde/error-retainer)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/markwylde/error-retainer)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/markwylde/error-retainer)](https://github.com/markwylde/error-retainer/releases)
+[![GitHub](https://img.shields.io/github/license/markwylde/error-retainer)](https://github.com/markwylde/error-retainer/blob/master/LICENSE)
+
 Retain stack traces when breaking out of the current stack.
 
 ## Example Usage
